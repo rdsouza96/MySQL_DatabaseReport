@@ -1,4 +1,4 @@
-# MySQL_DatabaseReport
+# Dallas City Police Database
 
 # Introduction
 With the humongous amount of data inundating the internet on an hourly basis, there is a need for advanced technology that can process such data through categorization and organization so that it can be effectively stored in a particular location and is easily retrievable. Databases fulfill such purpose by providing a system to store enormous amounts of data that can easily be searched to access specific records through the use of queries. The purpose of this project is to demonstrate adequate knowledge on data modelling and database design to manage data as information professionals through the skills learnt in this course. The database in this project was built and implemented using MySQL for a City 311 application to service requests in the Dallas area. The database has been built from the base table provided in the City 311 application and has been normalized to create several entities and their attributes for a refined search. Understanding relational databases, normalization, creation of data dictionaries, and data integrity have been the key learning outcomes of this project.
@@ -21,4 +21,8 @@ The objectives of this database are to:
 - Empower Dallas citizens, businesses, and visitors with information about the city. 
 - Give citizens access to information on how calls are handled in a timely/responsive manner.
 - To improve the services by comparing the number of requests received for a particular service over the span of three years from 2016 to 2018
+
+# Conclusion
+
+Apart from exploring the SQL commands such as CREATE, INSERT, SELECT, etc., this project also focuses on applying the concepts of normalization to eliminate data redudandancy. This database is normalized upto 3 NF generating tables with primary key and not-null constraints. The business rules are built on the ER model and the data dictionary reports the database objects for query optimization. All of these components of a database enable the execution of simple and complex queries to retrieve the appropriate data from the database.
 
