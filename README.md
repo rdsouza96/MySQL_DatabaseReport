@@ -24,5 +24,5 @@ The objectives of this database are to:
 
 # Conclusion
 
-Apart from exploring the SQL commands such as CREATE, INSERT, SELECT, etc., this project also focuses on applying the concepts of normalization to eliminate data redudandancy. This database is normalized upto 3 NF generating tables with primary key and not-null constraints. The business rules are built on the ER model and the data dictionary reports the database objects for query optimization. All of these components of a database enable the execution of simple and complex queries to retrieve the appropriate data from the database.
+Apart from exploring the SQL commands such as CREATE, INSERT, SELECT, etc., this project also focuses on applying the concepts of normalization to eliminate data redudandancy. This database is normalized upto 3 NF generating tables with primary key and not-null constraints. The business rules are built on the ER model and the data dictionary reports the database objects for query optimization while also using SQL Join operations. All of these components of a database enable the execution of simple and complex queries to retrieve the appropriate data from the database.
 
